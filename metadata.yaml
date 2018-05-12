@@ -1,0 +1,32 @@
+_repo: The-Camp-Fire-Girls-at-Onoway-House--Or-The-Magic-Garden_36833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frey, Hildegard G.
+    aliases:
+    - Frey, Hildegarde G.
+    - Frey, Hildegard G. (Hildegard Gertrude)
+    birthdate: 1891
+    deathdate: 1957
+    gutenberg_agent_id: '2241'
+    url: http://www.gutenberg.org/2009/agents/2241
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Measles -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: The Camp Fire Girls at Onoway House; Or, The Magic Garden
+url: http://www.gutenberg.org/ebooks/36833
